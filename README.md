@@ -5,15 +5,11 @@
 
 A tiny serverless datastore for IoT data. Powered by AWS Lambda, DynamoDB and API Gateway.
 
----
-
 ## Contents
 * [Basic usage](#basic-usage)
 * [Get started](#get-started)
-* [Project goals](#project-goals)
+* [Restricting access](#restricting-access)
 * [Contributions](#contributions)
-
----
 
 ## Basic usage
 EZStore has two HTTP API's: one to ingest data and one to retrieve it.
@@ -75,10 +71,6 @@ By default, EZStore will happily serve any request.
 If you want to limit access, implement a custom authorizer in the `serverless.yml` file.
 
 TODO: give an example ;)
-
-## Project goals
-
-* Small & nimble.
 
 ## Contributions
 Feel free to fork, improve and open pull requests.
