@@ -6,10 +6,14 @@
 A tiny serverless datastore for IoT data. Powered by AWS Lambda, DynamoDB and API Gateway.
 
 ## Contents
+* [Architecture](#architecture)
 * [Basic usage](#basic-usage)
 * [Get started](#get-started)
 * [Restricting access](#restricting-access)
 * [Contributions](#contributions)
+
+## Architecture
+![EZStore architecture diagram](https://savjee.github.io/EZStore/assets/img/ezstore-architecture.svg)
 
 ## Basic usage
 EZStore has two HTTP API's: one to ingest data and one to retrieve it.
