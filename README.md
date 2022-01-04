@@ -5,6 +5,8 @@
 
 A tiny serverless datastore for IoT data. Powered by AWS Lambda, DynamoDB and API Gateway.
 
+[Read my blog post about EZStore](https://savjee.be/2022/01/ezstore-a-tiny-serverless-data-store-for-iot-data/)
+
 ## Contents
 * [Architecture](#architecture)
 * [Basic usage](#basic-usage)
