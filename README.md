@@ -1,4 +1,8 @@
 # EZStore
+
+[![Serverless badge](https://camo.githubusercontent.com/dcd998f0b6567f17873812fa9bcc9767d63c056862c19024ccbfe5ec7cefe2eb/687474703a2f2f7075626c69632e7365727665726c6573732e636f6d2f6261646765732f76332e737667)](http://www.serverless.com/)
+[![Build status](https://github.com/Savjee/EZStore/actions/workflows/build.yaml/badge.svg)](https://github.com/Savjee/EZStore/actions/workflows/build.yaml)
+
 A tiny serverless datastore for IoT data. Powered by AWS Lambda, DynamoDB and API Gateway.
 
 ---
